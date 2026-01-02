@@ -1,0 +1,21 @@
+.Validar{
+    color: red;
+    font-size: 9pt;
+    display: none;
+}
+#divNomeFunc{
+    display: none;
+}
+
+#divGeral{
+    display: none;
+}
+
+#dadosEndereco{
+    display: none;
+}
+
+#validaS, #validaB{
+    display: none;
+}
+

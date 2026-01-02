@@ -1,0 +1,25 @@
+/nbproject/private/
+
+# Dependências / cache
+node_modules/
+vendor/
+
+# Ambiente / configs sensíveis
+.env
+.env.*
+config.php
+config/*.php
+
+# Uploads / arquivos gerados
+uploads/
+tmp/
+cache/
+
+# SO / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+.user.ini
+php.ini
