@@ -16,10 +16,10 @@ Plataforma web para conectar doadores a instituições que precisam de apoio.
 - CSS3
 - JavaScript
 
-📌 Status
+## 📌 Status
 
 Concluído
 
-👩‍💻 Autora
+## 👩‍💻 Autora
 
 Giovanna Barbieri
